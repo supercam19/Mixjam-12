@@ -1,0 +1,11 @@
+Northern
+Eastern
+Western
+Southern
+Old
+Dusty
+Dry
+Sandy
+Rocky
+Windy
+Lost

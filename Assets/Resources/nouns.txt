@@ -1,0 +1,9 @@
+Dunes;0
+Hills;0
+Desert;0
+Mounds;0
+Crater;0
+Canyon;0
+Ravine;0
+Sands;0
+Cliffs;0
